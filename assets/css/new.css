@@ -13,5 +13,11 @@
   display: flex;
 }
 
-/* ul.labeled-icons li:first-child {
-} */
+ul.labeled-icons li:first-child {
+  margin: 0;
+}
+
+ul.labeled-icons li {
+  margin-top: 0;
+  margin-left: 20px;
+}
