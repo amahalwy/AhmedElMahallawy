@@ -4,6 +4,9 @@ A simple, minimalist template that actually began life as an unused redesign of 
 personal site. Includes a (configurable) parallax background effect, Poptrox-powered
 lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
 
+To view, visit https://amahalwy.github.io/AhmedElMahallawy/
+
+
 Credits:
 	Demo Images:
 		Unsplash (unsplash.com)
